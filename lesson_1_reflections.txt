@@ -1,0 +1,11 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Don't have to search through long files manually. Less anxiety about mistakes. Perhaps I'll want to reintroduce a functionality from an old version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+You can forget to save manually, but manual saves allow you to save at logical times.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Cos git is made from programmers, and programmers often use file systems, not individual files.
+
+How might using version control make you more confident to make changes that could break something?
+Cos I can always revert, duh.

@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+Makes a hidden .git directory, making the files in the directory abovit "commitable".
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+You don't have to commit the whole directory, instead you can make a smaller selection that you put in the staging area. The value is letting you save logical changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+If you changed more than one file, you can move one to the staging area and commit, then move another and commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I want to incorporate changes that are experimental.
+
+How do the diagrams help you visualize the branch structure?
+All diagrams help you visualize.
